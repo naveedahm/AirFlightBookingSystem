@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x7D7pOfxsus=",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Back_End\\.Net_Projects\\AirlineBookingSystem\\AirlineBookingSystem.Flights.Api\\AirlineBookingSystem.Flights.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.13\\microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
